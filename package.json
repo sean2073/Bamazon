@@ -1,0 +1,24 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "An Amazon-like storefront with the MySQL skills I learned this week.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sean2073/Bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sean2073/Bamazon/issues"
+  },
+  "homepage": "https://github.com/sean2073/Bamazon#readme",
+  "dependencies": {
+    "markup": "0.0.4",
+    "mysql": "^2.13.0",
+    "require": "^2.4.20"
+  }
+}
